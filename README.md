@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React and Goland
 - 💞️ I’m looking to collaborate on Open source projects.
-- 📫 How to reach me, email me at kharshit1203@outlook.com
+- 📫 How to reach me, email me at harshitk1203@outlook.com
 
 # 💫 About Me: 
   1 year of experience developing backend applications in Golang at Juniper Networks<br>Proficient in frontend technologies like React and JavaScript<br>
